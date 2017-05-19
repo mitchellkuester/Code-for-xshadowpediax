@@ -1,2 +1,2 @@
-# Code-for-Shadows-Pokedex
-All the code needed to create my website using Google Sites.
+# Code-for-1shadowspokedex1
+All the code needed to create my website using WordPress.
