@@ -1,1 +1,11 @@
-<p style="text-align:center;">Welcome to my website, here you can find information about all of the Pokémon!</p>
+<div style="text-align: center;">Welcome to my website, here you can find information about all of the Pokémon!</div>
+<h1 style="text-align: center;"><span style="text-decoration: underline;"><strong>Main Series</strong></span></h1>
+<div style="text-align: center;"><strong>Generation 5:</strong></div>
+<div style="text-align: center;">Black Version and White Version</div>
+<div style="text-align: center;">Black Version 2 and White Version 2</div>
+<div style="text-align: center;"><strong>Generation 6:</strong></div>
+<div style="text-align: center;">X and Y</div>
+<div style="text-align: center;">Omega Ruby and Alpha Sapphire</div>
+<div style="text-align: center;"><strong>Generation 7:</strong></div>
+<div style="text-align: center;">Sun and Moon</div>
+<div style="text-align: center;">Ultra Sun and Ultra Moon</div>
