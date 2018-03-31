@@ -1,11 +1,13 @@
-<div style="text-align: center;"><span style="background-color: transparent;">*Computer users only, use your computer's word search option to easily search up Pokémon on this website.*
-</span></div>
-<div style="text-align: center;">This Pokédex is updated for Generation 7.</div>
-<div style="text-align: center;"></div>
+<div style="text-align:center;">*Computer users only, use your computer's word search option to easily search up Pokémon on this website.*</div>
+<div style="text-align:center;"></div>
+<div style="text-align:center;">This Pokédex is updated for Generation 7.</div>
+<div style="text-align:center;"></div>
 
 <hr />
-<p style="text-align: left;">#001 <b>Bulbasaur</b> - Grass/Poison
-<b><u>Base stats</u></b>
+
+<div style="text-align:center;"></div>
+<p style="text-align:left;">#001 <strong>Bulbasaur</strong> - Grass/Poison
+<strong><u>Base stats</u></strong>
 HP: 45
 Attack: 49
 Defense: 49
@@ -13,12 +15,12 @@ Sp. Atk: 65
 Sp. Def: 65
 Speed: 45
 Total: 318
-<b><u>Type effectiveness</u></b>
+<strong><u>Type effectiveness</u></strong>
 Weak to: Flying (2x), Fire (2x), Psychic (2x), Ice (2x)
 Immune to: None
 Resistant to: Fighting (1/2x), Water (1/2x), Grass (1/4x), Electric (1/2x), Fairy (1/2x)</p>
-<p style="text-align: left;">#002 <b>Ivysaur</b> - Grass/Poison
-<b><u>Base stats</u></b>
+<p style="text-align:left;">#002 <strong>Ivysaur</strong> - Grass/Poison
+<strong><u>Base stats</u></strong>
 HP: 60
 Attack: 62
 Defense: 63
@@ -26,12 +28,12 @@ Sp. Atk: 80
 Sp. Def: 80
 Speed: 60
 Total: 405
-<b><u>Type effectiveness</u></b>
+<strong><u>Type effectiveness</u></strong>
 Weak to: Flying (2x), Fire (2x), Psychic (2x), Ice (2x)
 Immune to: None
 Resistant to: Fighting (1/2x), Water (1/2x), Grass (1/4x), Electric (1/2x), Fairy (1/2x)</p>
-<p style="text-align: left;">#003 <b>Venusaur</b> - Grass/Poison
-<b><u>Base stats</u></b>
+<p style="text-align:left;">#003 <strong>Venusaur</strong> - Grass/Poison
+<strong><u>Base stats</u></strong>
 HP: 80
 Attack: 82
 Defense: 83
@@ -39,12 +41,12 @@ Sp. Attack: 100
 Sp. Defense: 100
 Speed: 80
 Total: 525
-<b><u>Type effectiveness</u></b>
+<strong><u>Type effectiveness</u></strong>
 Weak to: Flying (2x), Fire (2x), Psychic (2x), Ice (2x)
 Immune to: None
 Resistant to: Fighting (1/2x), Water (1/2x), Grass (1/4x), Electric (1/2x), Fairy (1/2x)</p>
-<p style="text-align: left;">#004 <b>Charmander</b> - Fire
-<b><u>Base stats</u></b>
+<p style="text-align:left;">#004 <strong>Charmander</strong> - Fire
+<strong><u>Base stats</u></strong>
 HP: 39
 Attack: 52
 Defense: 43
@@ -52,12 +54,12 @@ Sp. Attack: 60
 Sp. Defense: 50
 Speed: 65
 Total: 309
-<b><u>Type effectiveness</u></b>
+<strong><u>Type effectiveness</u></strong>
 Weak to: Ground (2x), Rock (2x), Water (2x)
 Immune to: None
 Resistant to: Bug (1/2x), Steel (1/2x), Fire (1/2x), Grass (1/2x), Ice (1/2x), Fairy (1/2x)</p>
-<p style="text-align: left;">#005 <b>Charmeleon</b> - Fire
-<b><u>Base stats</u></b>
+<p style="text-align:left;">#005 <strong>Charmeleon</strong> - Fire
+<strong><u>Base stats</u></strong>
 HP: 58
 Attack: 64
 Defense: 58
@@ -65,12 +67,12 @@ Sp. Attack: 80
 Sp. Defense: 65
 Speed: 80
 Total: 405
-<b><u>Type effectiveness</u></b>
+<strong><u>Type effectiveness</u></strong>
 Weak to: Ground (2x), Rock (2x), Water (2x)
 Immune to: None
 Resistant to: Bug (1/2x), Steel (1/2x), Fire (1/2x), Grass (1/2x), Ice (1/2x), Fairy (1/2x)</p>
-<p style="text-align: left;">#006 <b>Charizard</b> - Fire/Flying
-<b><u>Base stats</u></b>
+<p style="text-align:left;">#006 <strong>Charizard</strong> - Fire/Flying
+<strong><u>Base stats</u></strong>
 HP: 78
 Attack: 84
 Defense: 78
@@ -78,12 +80,12 @@ Sp. Attack: 109
 Sp. Defense: 85
 Speed: 100
 Total: 534
-<b><u>Type effectiveness</u></b>
+<strong><u>Type effectiveness</u></strong>
 Weak to: Rock (4x), Water (2x), Electric (2x)
 Immune to: Ground (0x)
 Resistant to: Fighting (1/2x), Bug (1/4x), Steel (1/2x), Fire (1/2x), Grass (1/4x), Fairy (1/2x)</p>
-<p style="text-align: left;">#007 <b>Squirtle</b> - Water
-<b><u>Base stats</u></b>
+<p style="text-align:left;">#007 <strong>Squirtle</strong> - Water
+<strong><u>Base stats</u></strong>
 HP: 44
 Attack: 48
 Defense: 65
@@ -91,12 +93,12 @@ Sp. Attack: 50
 Sp. Defense: 64
 Speed: 43
 Total: 314
-<b><u>Type effectiveness</u></b>
+<strong><u>Type effectiveness</u></strong>
 Weak to: Grass (2x), Electric (2x)
 Immune to: None
 Resistant to: Steel (1/2x), Fire (1/2x), Water (1/2x), Ice (1/2x)</p>
-<p style="text-align: left;">#008 <b>Wartortle</b> - Water
-<b><u>Base stats</u></b>
+<p style="text-align:left;">#008 <strong>Wartortle</strong> - Water
+<strong><u>Base stats</u></strong>
 HP: 59
 Attack: 63
 Defense: 80
@@ -104,19 +106,55 @@ Sp. Attack: 65
 Sp. Defense: 80
 Speed: 58
 Total: 405
-<b><u>Type effectiveness</u></b>
+<strong><u>Type effectiveness</u></strong>
 Weak to: Grass (2x), Electric (2x)
 Immune to: None
 Resistant to: Steel (1/2x), Fire (1/2x), Water (1/2x), Ice (1/2x)</p>
-<p style="text-align: left;">#009 <b>Blastoise</b> - Water
-<b><u>Base stats</u></b>
+<p style="text-align:left;">#009 <strong>Blastoise</strong> - Water
+<strong><u>Base stats</u></strong>
 HP: 79
 Attack: 83
 Defense: 100
 Sp. Attack: 85
 Sp. Defense: 105
 Speed: 78
-<b><u>Type effectiveness</u></b>
+<strong><u>Type effectiveness</u></strong>
 Weak to: Grass (2x), Electric (2x)
 Immune to: None
 Resistant to: Steel (1/2x), Fire (1/2x), Water (1/2x), Ice (1/2x)</p>
+<p style="text-align:left;">#010 <strong>Caterpie</strong> - Bug
+<strong><u>Base stats</u></strong>
+HP: 45
+Attack: 30
+Defense: 35
+Sp. Attack: 20
+Sp. Defense: 20
+Speed: 45
+<strong><u>Type effectiveness</u></strong>
+Weak to: Flying (2x), Rock (2x), Fire (2x)
+Immune to: None
+Resistant to: Fighting (1/2x), Ground (1/2x), Grass (1/2x)</p>
+<p style="text-align:left;">#011 <strong>Metapod</strong> - Bug
+<strong><u>Base stats</u></strong>
+HP: 50
+Attack: 20
+Defense: 55
+Sp. Attack: 25
+Sp. Defense: 25
+Speed: 30
+<strong><u>Type effectiveness</u></strong>
+Weak to: Flying (2x), Rock (2x), Fire (2x)
+Immune to: None
+Resistant to: Fighting (1/2x), Ground (1/2x), Grass (1/2x)</p>
+<p style="text-align:left;">#012 <strong>Butterfree</strong> - Bug/Flying
+<strong><u>Base stats</u></strong>
+HP: 60
+Attack: 45
+Defense: 50
+Sp. Attack: 90
+Sp. Defense: 80
+Speed: 70
+<strong><u>Type effectiveness</u></strong>
+Weak to: Flying (2x), Rock (4x), Fire (2x), Electric (2x), Ice (2x)
+Immune to: Ground (0x)
+Resistant to: Fighting (1/4x), Bug (1/2x), Grass (1/4x)</p>
